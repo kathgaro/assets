@@ -1,30 +1,35 @@
-# Pasos para activar github - page
+# Pasos para crear link de drive
 
-## 1. Seleccionar "Settings"
-En tu repositorio revisa el menu y encontrarás un item con el nombre de "settings" 
-![github-repo-settings](asset/github-page-1.jpg)
+## 1. Iniciando una carpeta
+Al estar en "DRIVE" de la mano izquierda verás este botón. Hace clic donde dice “Nuevo” como en la imagen:
 
-## 2. Seleccionar "pages"
-Ahora revisamos el menu del lado izquierdo y hacemos clic en el item "pages" el cual se mostrará asi:
+![drive-nuevo](asset/drive-k.png)
 
-![github-repo-settings-pages](asset/github-page-setting-page.jpg)
+## 2. Crear carpeta
+Ahora se desplagrá un menú en el cual seleccionaremos haciendo clic en “Nueva carpeta”
 
-## 3. Deploy
-Veamos el apartado que dice "Build and deployment" > Source: Tendrás un botón que al hacer clic se despliega y debemos elegir el siguiente item:
+![drive-nuevo-carpeta](asset/drive-k-newcarpet.png)
 
-![github-deploys](asset/github-page-deploy.jpg)
+## 3. Nombre de carpeta
+Nos aparecerá esta ventana, y es donde debemos ingresar el nombre de nuestra carpeta y luego debemos hacer clic en “crear”
 
-## 4. Elegir rama
-Ahora, veamos el apartado de "Build and deployment" > Branch: Tendrás un botón que al hacer clic se despliega y debemos elegir la rama que queremos activar en este caso seria "main"
+![drive-nuevo-carpeta-nombre](asset/drive-k-newcarpet-name.png)
 
-![github-repo-ramas](asset/github-page-rama.jpg)
+## 4. Subimos archivo
+ Subi tu archivo .rar/.zip (hace clic derecho y te aparecerá el siguiente menú, elegí la opción "subir archivo"
+ 
+ ![drive-nuevo-carpeta-subir](asset/drive-k-subir-rar.png)
 
-## 5. Guardar y link de pages
-Luego hacemos clic donde dice "Save" y en unos minutos aparecerá el link de nuestro pages.
+ Luego hace clic en el nombre de tu carpeta como en la imagen y se desplegará un menú, hace clic en “compartir”
 
-![github-repo-save](asset/github-page-save.jpg)
+![drive-nuevo-carpeta-up](asset/drive-k-rar-compartir.png)
 
-## 6. Asi debe aparecer en nuestro repo
-Actualiza y revisa tu repositorio, debe aparecer el  link hacia github-page!
+## 5. Modificamos el acceso
+Ahora elegimos la opción "Cualquier persona con el enlace" como se indica en la imagen:
 
-![github-repo-settings-pages](asset/check--page.jpg)
+![drive-enlace](asset/drive-k-rar-compartir-enlace.png)
+
+## 6. ¿Como obtener el enlace?
+Por último, hacemos clic en “copiar enlace” y lo pegamos en el item de plataforma.
+
+![drive-enlace-copy](asset/drive-k-rar-compartir-enlace-copy.png)
