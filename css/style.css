@@ -1,0 +1,16 @@
+nav{
+    background-color: blue;
+}
+
+nav ul{
+    background-color: white;
+    width: 500px;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
