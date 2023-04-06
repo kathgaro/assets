@@ -1,20 +1,28 @@
 # Pasos para instalar SASS
 IMPORTANTE: 
-- Antes de iniciar con los siguientes pasos debes tener instalado *node.js*
+- Antes de iniciar con los siguientes pasos debes tener instalado *node.js* sino lo tienes instalado, debes descargarlo desde este link:
+https://nodejs.org/en
 
+- Una vez lo descargues, abre el instalador y dale *next* hasta el final.
+- Luego, abre tu terminal y para chequear que este correctamente instalados agrega este comando:
+```
+node -v
+```
+Te devolverá algo asi como la siguiente imagen:
+![node-v](asset/cmd-version.jpg)
 #
 
-## 1. Crear carpetas y archivos
+## 1. ¡VAMOS A VISUAL CODE! - Crear carpetas y archivos
 
-Dentro de la carpeta de nuestro proyecto creamos una carpeta "scss" y un archivo llamado "main.scss"
-
-Luego, dentro de la carpeta "css" vamos a crear a "main.css" que va a ser donde vamos a compilar.
+1. Abre tu proyecto en visual code.
+2. Crea una carpeta "scss" y dentro un archivo llamado "main.scss"
+3. Dentro de la carpeta "css" vamos a crear a "main.css" que va a ser donde vamos a compilar.
 
 👇 *Imagen de referencia* 👇
 
 ![orden-de-proyecto](asset/sass-proy-order.jpg)
 
-💥IMPORTANTE: Este ejemplo es teniendo en cuenta que vas a integrar *sass* en tu proyecto, por eso, dejamos a "style.css" para tener un back-up.
+💥IMPORTANTE: Este ejemplo es teniendo en cuenta que vas a integrar *sass* en tu proyecto, por eso, dejamos a "style.css" para tener un back-up de los estilos que ya creaste.
 
 #
 
