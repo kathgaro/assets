@@ -88,4 +88,4 @@ npm run watch-css
 #
 #
 
-### 🎁 Ya tienes todos lista para empezar a trabajar en sass 💪
+### 🎁 Ya tienes todo listo para empezar a trabajar en sass 💪
