@@ -9,6 +9,7 @@ https://nodejs.org/en
 node -v
 ```
 Te devolverá algo asi como la siguiente imagen:
+
 ![node-v](asset/cmd-version.jpg)
 #
 
@@ -57,16 +58,16 @@ Te devolverá algo asi como la siguiente imagen:
 
 ![package-ruta](asset/sass-json.jpg)
 
-- Para finalizar con la figuración, guarda los cambios *ctrl+S*
+- Para finalizar con la configuración, guarda los cambios *ctrl+S*
 
 #
 
 ## 4. Iniciando sass
- - En la terminal agregamos el siguiente comandos y le damos "enter":
+ - En la terminal agregamos el siguiente comando y le damos "enter":
  ```
 npm run watch-css
  ```
-💥IMPORTANTE: La referencia *watch-css* es por la configuración que realizamos si le agregas otro nombre, debes modificar el comando. 
+💥IMPORTANTE: La referencia *watch-css* es por la configuración que realizamos, si le agregas otro nombre, debes modificar el comando. 
 
  *(Ref. imagen)*
 
@@ -96,4 +97,5 @@ npm run watch-css
 #
 #
 
-### 🎁 Ya tienes todo listo para empezar a trabajar en sass 💪
+### 🎁 Ya tienes todo listo para empezar a trabajar en sass 💪 
+ 
