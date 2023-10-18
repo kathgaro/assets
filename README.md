@@ -1,30 +1,63 @@
-# Pasos para activar github - page
+# 000WEBHOST - Subida 🚀
 
-## 1. Seleccionar "Settings"
-En tu repositorio revisa el menu y encontrarás un item con el nombre de "settings" 
-![github-repo-settings](asset/github-page-1.jpg)
+## 1. Entrar a Webhost
+Ingresa al siguiente link:
+https://ar.000webhost.com/
 
-## 2. Seleccionar "pages"
-Ahora revisamos el menu del lado izquierdo y hacemos clic en el item "pages" el cual se mostrará asi:
+Luego, selecciona el item de "iniciar sesion"
 
-![github-repo-settings-pages](asset/github-page-setting-page.jpg)
+![github-repo-settings-pages](asset/wh-0.png)
 
-## 3. Deploy
-Veamos el apartado que dice "Build and deployment" > Source: Tendrás un botón que al hacer clic se despliega y debemos elegir el siguiente item:
+## 2. Iniciar sesion
+Loggeate con tu mail:
 
-![github-deploys](asset/github-page-deploy.jpg)
+![github-repo-settings-pages](asset/wh-00.png)
 
-## 4. Elegir rama
-Ahora, veamos el apartado de "Build and deployment" > Branch: Tendrás un botón que al hacer clic se despliega y debemos elegir la rama que queremos activar en este caso seria "main"
+## 3. Crear proyecto
+Al ingresar, te aparecerá este botón para poder "crear un nuevo sitio web", haz clic ahí
 
-![github-repo-ramas](asset/github-page-rama.jpg)
+![github-deploys](asset/wh-1.png)
 
-## 5. Guardar y link de pages
-Luego hacemos clic donde dice "Save" y en unos minutos aparecerá el link de nuestro pages.
+## 4. Configuración
+Luego, completa los siguientes espacios que están resaltados a continuación: (Anota ese nombre y contraseña)
 
-![github-repo-save](asset/github-page-save.jpg)
+Cuando finalizas, dale clic en "crear"
 
-## 6. Asi debe aparecer en nuestro repo
-Actualiza y revisa tu repositorio, debe aparecer el  link hacia github-page!
+![github-repo-ramas](asset/wh-2.png)
 
-![github-repo-settings-pages](asset/check--page.jpg)
+## 5. Tablero de configuración
+En este espacio de "Tablero" encontrarás de la mano derecha muchos recuadros, busca en la sección "Archivos" el icono de 📂 "Administrador de archivos"
+Al encontrarlo haz clic ahí
+![github-repo-save](asset/wh-3.png)
+
+## 6. Administrador de archivos
+En este espacio, vamos a ingresar a la carpeta "public_html" que es donde vamos subir nuestros archivos:
+
+![github-repo-settings-pages](asset/wh-4.png)
+
+## 7. Carpeta Public
+Selecciona desde tu carpeta local **solo los archivos que necesitas para que tu proyecto se muestre**, es decir, los html, css y material gráfico (sean imágenes, videos, tipografías).
+Una vez seleccionados, arrastralo hacia la carpeta "public" en 000webhost
+
+Ejemplo:
+
+![github-repo-settings-pages](asset/wh-5.png)
+
+## 8. Ya casi terminamos!
+Como resultado te aparecerá algo así, es decir, los archivos y carpetas de tu proyecto.
+Una ves esté todo cargado, vuelve a la pestaña de "Cuadro de mandos"
+
+Ejemplo:
+
+![github-repo-settings-pages](asset/wh-6.png)
+
+## 9. Paso final ✨
+Al volver a panel principal encontraremos este enlace, ubicado en la barra izquierda abajo del logo. Ahí tendrás el link para ver tu web. En mi caso se llama "kath-prueba"
+Haz clic ahí, para ver tu proyecto 😉
+
+![github-repo-settings-pages](asset/wh-7.png)
+
+Ya tenes tu proyecto en línea 🙌
+
+Si tenes alguna consulta podes escribirme 💌 [Ayuda](https://www.superprof.com.ar/hola-soy-disenadora-front-end-oriento-clases-introductorias-programacion-nivel-inicial-intermedio-para.html)
+
