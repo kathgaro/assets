@@ -59,5 +59,5 @@ Haz clic ahí, para ver tu proyecto 😉
 
 Ya tenes tu proyecto en línea 🙌
 
-Si tenes alguna consulta podes escribirme 💌 [Ayuda](https://www.superprof.com.ar/hola-soy-disenadora-front-end-oriento-clases-introductorias-programacion-nivel-inicial-intermedio-para.html)
+Si tenes alguna consulta podes escribirme 💌 [Ayuda](https://www.instagram.com/altoremolp/?hl=es)
 
