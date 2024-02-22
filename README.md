@@ -59,5 +59,4 @@ Haz clic ahí, para ver tu proyecto 😉
 
 Ya tenes tu proyecto en línea 🙌
 
-Si tenes alguna consulta podes escribirme 💌 [Ayuda](https://www.instagram.com/altoremolp/?hl=es)
-
+Si necesitas ayuda comunicate 💌 [Aquí](https://wa.me/message/B55B7TNR2AWEO1)
